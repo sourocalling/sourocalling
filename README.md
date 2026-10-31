@@ -29,14 +29,14 @@ I care about typed code, accessible layouts, and interfaces that stay fast on re
 ## Stack
 
 <p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-111111?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&amp;logo=tailwindcss&amp;logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" />
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&amp;logo=supabase&amp;logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" />
 </p>
 
 **Interface.** React 19, Next.js App Router, TypeScript, Tailwind CSS, shadcn/ui, Radix, Material UI, Framer Motion, GSAP.
@@ -79,6 +79,9 @@ UpdateHub, AI HR Chat, and the portfolio source are private. The live apps are l
 I am open to frontend and product-UI work that fits this stack.
 
 <p align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sourocalling&show_icons=true&hide_border=true&include_all_commits=true&title_color=111827&icon_color=0f766e&text_color=374151" />
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourocalling&layout=compact&hide_border=true&title_color=111827&text_color=374151&langs_count=6" />
+  <img alt="GitHub profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourocalling&amp;theme=github_dark" />
+</p>
+<p align="center">
+  <img alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sourocalling&amp;theme=github_dark" />
+  <img alt="Top languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sourocalling&amp;theme=github_dark" />
 </p>
