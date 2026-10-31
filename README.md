@@ -21,7 +21,7 @@ I care about typed code, accessible layouts, and interfaces that stay fast on re
 | | |
 | --- | --- |
 | Role | Senior Application Developer |
-| Company | [Webskitters Technology Solutions Pvt. Ltd.](https://www.webskitters.com) |
+| Company | Webskitters Technology Solutions Pvt. Ltd. |
 | Since | July 2021 |
 | Focus | Next.js, TypeScript, React, and product UI |
 | Location | Kolkata, India |
@@ -51,12 +51,12 @@ I care about typed code, accessible layouts, and interfaces that stay fast on re
 
 | Project | What it is | |
 | --- | --- | --- |
-| **Client Update Management** | Frontend for a client-update platform. Next.js 16, TypeScript, Tailwind CSS, TipTap, React Hook Form, and Zod. | [Live](https://client-update-mangment-system-fe.vercel.app) · [Code](https://github.com/sourocalling/Client_update_mangment_system_FE) |
+| **Client Update Management** | Frontend for a client-update platform. Next.js 16, TypeScript, Tailwind CSS, TipTap, React Hook Form, and Zod. The API is a private Yarn workspace that runs with Docker Compose. | [Live](https://client-update-mangment-system-fe.vercel.app) · [Code](https://github.com/sourocalling/Client_update_mangment_system_FE) |
 | **UpdateHub** | Editor-driven product for writing and publishing updates. Next.js, TipTap, Supabase, PostgreSQL, and Resend, with a Docker setup. | [Live](https://update-hub-two.vercel.app) |
 | **AI HR Chat** | Admin portal for HR policies and a chat UI for an employee-facing assistant. Next.js, TypeScript, and Tailwind CSS. | [Live](https://hr-systemx.vercel.app) |
-| **Portfolio** | IDE-style personal site: tabbed workspace, command palette, and an in-app assistant. Next.js 16, TypeScript, Tailwind CSS, Framer Motion, and GSAP. | [Code](https://github.com/sourocalling/sourojit_rakshit_P) |
+| **Portfolio** | IDE-style personal site: tabbed workspace, command palette, and an in-app assistant. Next.js 16, TypeScript, Tailwind CSS, Framer Motion, and GSAP. | Private repository |
 
-The API for Client Update Management is a private Yarn workspace (`services/api`) that runs with Docker Compose. UpdateHub and AI HR Chat are private repositories; the live apps are linked above.
+UpdateHub, AI HR Chat, and the portfolio source are private. The live apps are linked above.
 
 ## Background
 
@@ -79,6 +79,6 @@ The API for Client Update Management is a private Yarn workspace (`services/api`
 I am open to frontend and product-UI work that fits this stack.
 
 <p align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sourocalling&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&title_color=111827&icon_color=0f766e&text_color=374151" />
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sourocalling&show_icons=true&hide_border=true&include_all_commits=true&title_color=111827&icon_color=0f766e&text_color=374151" />
   <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourocalling&layout=compact&hide_border=true&title_color=111827&text_color=374151&langs_count=6" />
 </p>
